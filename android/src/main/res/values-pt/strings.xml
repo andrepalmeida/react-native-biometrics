@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_hint">Toque no sensor</string>
+    <string name="fingerprint_cancel">Cancelar</string>
+    <string name="fingerprint_message">Confirme a digital para continuar</string>
+    <string name="fingerprint_not_recognized">Digital não reconhecida. Tente novamente</string>
+    <string name="fingerprint_recognized">Digital reconhecida</string>
+</resources>
